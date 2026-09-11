@@ -5,7 +5,7 @@ Originally created for someone special, now open for everyone to use and share �
 
 ---
 ## 🌐 Live Demo  
-🎉 **[https://github.com/angelia1109/nanda-birthday.git)](https://happybirthday-template.netlify.app/)**
+🎉 **[https://github.com/angelia1109/nanda-birthday.git)]([https://happybirthday-template.netlify.app/](https://github.com/angelia1109/nanda-birthday.git)))**
 
 Fork it, customize it, and create a unique birthday experience for your loved ones 💝  
 ---
